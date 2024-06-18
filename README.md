@@ -1,4 +1,4 @@
-# Fractal-like-nature-of-Bulgarian-Poetry
+# Fractal-like-structure-of-Bulgarian-Poetry
 
 ## Overview
 
