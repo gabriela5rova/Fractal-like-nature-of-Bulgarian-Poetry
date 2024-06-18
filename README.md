@@ -25,7 +25,7 @@ This project is licensed under the MIT License
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: gabriela.petrova@gmail.com
+- **Email**: gabriela.5rova@gmail.com
 - **GitHub**: [gabriela5rova](https://github.com/gabriela5rova)
 
 ---
